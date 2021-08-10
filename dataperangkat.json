@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "60b73ada720800005300212a"
+  },
+  "id": "2sdas",
+  "agent_ip": "192.168.100.30",
+  "agent": "Hidroponik 1000000",
+  "sensor_pin": [
+    1,
+    2,
+    3,
+    7
+  ],
+  "sensor_value": [
+    9,
+    10,
+    35,
+    40
+  ],
+  "actuator_pin": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "desc_sensor": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ]
+},{
+  "_id": {
+    "$oid": "60b73adc720800005300212b"
+  },
+  "id": "2sdas",
+  "agent_ip": "192.168.100.30",
+  "agent": "Hidroponik 1000000",
+  "sensor_pin": [
+    1,
+    2,
+    3,
+    7
+  ],
+  "sensor_value": [
+    9,
+    10,
+    35,
+    40
+  ],
+  "actuator_pin": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "desc_sensor": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ]
+},{
+  "_id": {
+    "$oid": "60b73aea720800005300212c"
+  },
+  "id": "2sdas",
+  "agent_ip": "192.168.100.30",
+  "agent": "Hidroponik 1000000",
+  "sensor_pin": [
+    1,
+    2,
+    3,
+    7
+  ],
+  "sensor_value": [
+    9,
+    10,
+    35,
+    40
+  ],
+  "actuator_pin": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "desc_sensor": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ]
+}]
